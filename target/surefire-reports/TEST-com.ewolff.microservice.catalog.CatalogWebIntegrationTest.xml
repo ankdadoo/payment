@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.ewolff.microservice.catalog.CatalogWebIntegrationTest" time="4.684" tests="4" errors="0" skipped="0" failures="0">
+<testsuite name="com.ewolff.microservice.catalog.CatalogWebIntegrationTest" time="10.031" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib"/>
@@ -61,8 +61,8 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="FormReturned" classname="com.ewolff.microservice.catalog.CatalogWebIntegrationTest" time="2.007"/>
-  <testcase name="IsItemReturnedAsJON" classname="com.ewolff.microservice.catalog.CatalogWebIntegrationTest" time="1.246"/>
-  <testcase name="IsItemReturnedAsHTML" classname="com.ewolff.microservice.catalog.CatalogWebIntegrationTest" time="1.313"/>
-  <testcase name="SearchWorks" classname="com.ewolff.microservice.catalog.CatalogWebIntegrationTest" time="0.118"/>
+  <testcase name="FormReturned" classname="com.ewolff.microservice.catalog.CatalogWebIntegrationTest" time="3.81"/>
+  <testcase name="IsItemReturnedAsJON" classname="com.ewolff.microservice.catalog.CatalogWebIntegrationTest" time="2.839"/>
+  <testcase name="IsItemReturnedAsHTML" classname="com.ewolff.microservice.catalog.CatalogWebIntegrationTest" time="3.184"/>
+  <testcase name="SearchWorks" classname="com.ewolff.microservice.catalog.CatalogWebIntegrationTest" time="0.198"/>
 </testsuite>
